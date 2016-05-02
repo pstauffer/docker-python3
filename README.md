@@ -9,3 +9,7 @@ Small docker image with python3 and pip3 installed. It's based on [Alpine Linux]
 ```
 docker run -d --name python3 pstauffer/python3:latest
 ```
+
+
+## License
+This project is licensed under `MIT <http://opensource.org/licenses/MIT>`_.
