@@ -4,6 +4,7 @@
 
 Small docker image with python3 and pip3 installed. It's based on [Alpine Linux](https://hub.docker.com/_/alpine/).
 
+[![](https://images.microbadger.com/badges/image/pstauffer/python3.svg)](https://microbadger.com/images/pstauffer/python3)
 
 ## Usage
 ```
